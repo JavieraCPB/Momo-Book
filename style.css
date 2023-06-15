@@ -78,11 +78,11 @@ header{
     
 }
 .container-cover{
-    width: 100%;
+     width: 100%;
     height: 500px;
     position: relative;
     margin-top: 80px;
-    background-image: url(img/img1.png);
+    background-image: url(img/img1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
